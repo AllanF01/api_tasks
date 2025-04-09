@@ -1,6 +1,6 @@
 #  Task Management API
 
-This is a **RESTful API** built with **Node.js, Express, and MongoDB**, designed to manage tasks through CRUD operations (Create, Read, Update, Delete). It was developed as part of a university **Software Quality Assurance final project**, and includes both **manual testing with Postman** and **automated testing using Jest and Supertest**.
+This is a RESTful API built with Node.js, Express, and MongoDB, designed to manage tasks through CRUD operations (Create, Read, Update, Delete). It includes input validation, structured error handling, and supports both manual testing using Postman and automated testing with Jest and Supertest.
 
 ---
 
